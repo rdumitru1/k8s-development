@@ -1,0 +1,2 @@
+vault/tls/*.pem
+vault/tls/*.csr
