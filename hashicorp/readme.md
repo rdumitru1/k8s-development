@@ -1,5 +1,5 @@
 # Hashicorp Vault Guide
-### This repo is a copy of docker-development from Marce Dempers
+### This repo is a copy of docker-development from Marcel Dempers
 
 Requirements:
 
